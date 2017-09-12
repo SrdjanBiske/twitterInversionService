@@ -1,0 +1,1 @@
+prohibit 47 49 russian 

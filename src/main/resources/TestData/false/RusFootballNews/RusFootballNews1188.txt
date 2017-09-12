@@ -1,0 +1,2 @@
+.@confortistefano wrote a great piece on Loskov's legacy at Lokomotiv Moscow last year: 
+https://t.co/r6y07tglml
